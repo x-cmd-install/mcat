@@ -1,0 +1,57 @@
+about:
+  description: Terminal image, video, PDF, and Markdown viewer
+  license: MIT
+  homepage: 
+  head: 6a9c4f7
+  archived: false
+  latestVersion: v0.6.5
+  collectedAt: 2026-09-04T04:19:44Z
+timeline:
+  created: 2025-04-14
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-29
+popularity:
+  star: 1398
+  watcher: 7
+  fork: 51
+  release: 33
+  contributor: 9
+  pullRequest: 7
+  issue: 66
+language:
+  Rust: 463942
+  CSS: 2245
+totalLine: 466187
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 1
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 15
+  last90d:
+    since: 2026-06-06
+    release: 4
+    mergedPR: 3
+    openPR: 0
+    closedIssue: 7
+    openIssue: 1
+    commit: 38
+  last180d:
+    since: 2026-03-08
+    release: 14
+    mergedPR: 9
+    openPR: 0
+    closedIssue: 20
+    openIssue: 5
+    commit: 210
+  last360d:
+    since: 2025-09-09
+    release: 17
+    mergedPR: 11
+    openPR: 1
+    closedIssue: 43
+    openIssue: 7
+    commit: 275
