@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.6.5"
   latestRelease: "v0.6.5"
   latestPrerelease: "v0.6.0-rc.3"
-  collectedAt: 2026-09-10T16:12:13Z
+  collectedAt: 2026-09-10T21:21:33Z
 timeline:
   created: 2025-04-14
   lastCommit: 2026-09-05
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-29
   lastPrerelease: 2026-04-25
 popularity:
-  star: 1406
+  star: 1407
   watcher: 7
   fork: 51
   release: 33
@@ -84,7 +84,7 @@ total:
   commit: 612
 ---
 path: /home/runner/.x-repo/github.com/Skardyy/mcat
-collectedAt: 2026-09-10T16:12:16Z
+collectedAt: 2026-09-10T21:21:34Z
 loc:
   Rust:
     code: 12117

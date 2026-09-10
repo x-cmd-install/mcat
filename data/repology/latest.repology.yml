@@ -1,0 +1,76 @@
+- repo: aur
+  srcname: mcat-bin
+  binname: mcat-bin
+  visiblename: mcat-bin
+  version: 0.6.5
+  origversion: 0.6.5-1
+  status: newest
+  summary: Terminal image, video, and Markdown viewer
+  maintainers:
+    - skardy@aur
+  licenses:
+    - MIT
+- repo: baulk
+  srcname: mcat
+  binname: mcat
+  visiblename: mcat
+  version: 0.6.5
+  origversion: null
+  status: newest
+  summary: Terminal image, video, and Markdown viewer.
+- repo: homebrew
+  srcname: mcat
+  visiblename: mcat
+  version: 0.6.5
+  origversion: null
+  status: newest
+  summary: Terminal image, video, directory, and Markdown viewer
+- repo: homebrew
+  srcname: mcat
+  visiblename: mcat
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Terminal image, video, directory, and Markdown viewer
+- repo: nix_stable_25_11
+  srcname: mcat-unwrapped
+  visiblename: mcat-unwrapped
+  version: 0.4.4
+  origversion: null
+  status: outdated
+  summary: cat command for documents / images / videos and more
+  maintainers:
+    - louis-thevenet@github
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: mcat-unwrapped
+  visiblename: mcat-unwrapped
+  version: 0.4.6
+  origversion: null
+  status: outdated
+  summary: cat command for documents / images / videos and more
+  maintainers:
+    - louis-thevenet@github
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: mcat-unwrapped
+  visiblename: mcat-unwrapped
+  version: 0.6.5
+  origversion: null
+  status: newest
+  summary: cat command for documents / images / videos and more
+  maintainers:
+    - louis-thevenet@github
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: mcat
+  visiblename: mcat
+  version: 0.6.5
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
