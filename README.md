@@ -12,6 +12,18 @@ Terminal image, video, PDF, and Markdown viewer
 x install mcat
 ```
 
+## Code insight
+
+Total: **12,546** lines of code across **51** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 12,117 | 222 | 1,515 | 33 |
+| Toml | 290 | 0 | 26 | 4 |
+| Css | 126 | 3 | 23 | 1 |
+| Svg | 13 | 0 | 0 | 7 |
+| Markdown | 0 | 437 | 170 | 6 |
+
 ## Source
 
 - **Upstream**: <https://github.com/Skardyy/mcat>
@@ -22,6 +34,25 @@ x install mcat
 - **Latest**: `v0.6.5` (2026-08-29)
 - **Last commit**: 2026-09-05
 - **Assets in release**: 32
+
+## Popularity
+
+- **Stars**: 1,407 · **Forks**: 51 · **Open issues**: 66 · **Contributors**: 9
+
+## Totals (cumulative)
+
+- **Releases**: 33 · **Merged PRs**: 22 · **Open PRs**: 1 · **Closed issues**: 59 · **Open issues**: 7 · **Commits**: 612
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 0 | 0 | 1 | 0 | 17 |
+| last60d | 2026-07-12 | 3 | 1 | 0 | 7 | 1 | 38 |
+| 90d | 2026-06-12 | 3 | 3 | 0 | 7 | 1 | 40 |
+| last180d | 2026-03-14 | 14 | 8 | 0 | 20 | 4 | 208 |
+| 360d | 2025-09-15 | 17 | 11 | 1 | 43 | 7 | 277 |
+| last720d | 2024-09-20 | 33 | 22 | 1 | 59 | 7 | 612 |
 
 ## Release assets
 
@@ -60,33 +91,14 @@ x install mcat
 | [mcat_0.6.5_arm64.deb](https://github.com/Skardyy/mcat/releases/download/v0.6.5/mcat_0.6.5_arm64.deb) | 8.8 MiB | `runtime/deb/arm64` |
 | [mcat_0.6.5_arm64.deb.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.5/mcat_0.6.5_arm64.deb.sha256) | 87 B | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 1,406 · **Forks**: 51 · **Open issues**: 66 · **Contributors**: 9
+Reported by **8** distros on [repology.org](https://repology.org/project/mcat). **5** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 33 · **Merged PRs**: 22 · **Open PRs**: 1 · **Closed issues**: 59 · **Open issues**: 7 · **Commits**: 612
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 0 | 0 | 1 | 0 | 17 |
-| 90d | 2026-06-12 | 3 | 3 | 0 | 7 | 1 | 40 |
-| 360d | 2025-09-15 | 17 | 11 | 1 | 43 | 7 | 277 |
-
-## Code size
-
-Total: **12,546** lines of code across **51** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 12,117 | 222 | 1,515 | 33 |
-| Toml | 290 | 0 | 26 | 4 |
-| Css | 126 | 3 | 23 | 1 |
-| Svg | 13 | 0 | 0 | 7 |
-| Markdown | 0 | 437 | 170 | 6 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.6.5` | ✅ latest |
+| Nix unstable | `0.6.5` | ✅ latest |
 
 ## Improve this data
 
@@ -97,4 +109,4 @@ Install metadata for mcat lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:12:23Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:21:39Z._
