@@ -47,12 +47,12 @@ Total: **12,546** lines of code across **51** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 0 | 0 | 1 | 0 | 17 |
-| last60d | 2026-07-12 | 3 | 1 | 0 | 7 | 1 | 38 |
-| 90d | 2026-06-12 | 3 | 3 | 0 | 7 | 1 | 40 |
-| last180d | 2026-03-14 | 14 | 8 | 0 | 20 | 4 | 208 |
-| 360d | 2025-09-15 | 17 | 11 | 1 | 43 | 7 | 277 |
-| last720d | 2024-09-20 | 33 | 22 | 1 | 59 | 7 | 612 |
+| 30d | 2026-08-12 | 1 | 0 | 0 | 1 | 0 | 17 |
+| last60d | 2026-07-13 | 3 | 1 | 0 | 7 | 1 | 38 |
+| 90d | 2026-06-13 | 3 | 3 | 0 | 7 | 1 | 40 |
+| last180d | 2026-03-15 | 14 | 6 | 0 | 20 | 4 | 208 |
+| 360d | 2025-09-16 | 17 | 11 | 1 | 43 | 7 | 277 |
+| last720d | 2024-09-21 | 33 | 22 | 1 | 59 | 7 | 612 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for mcat lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:28:22Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:30:48Z._
