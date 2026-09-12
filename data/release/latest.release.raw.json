@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 942,
       "digest": "sha256:7fe86ca374bbd1f50fb634aa659e5589a7676ffa7a667e7a8905d825199f1cb4",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-08-29T17:55:25Z",
       "updated_at": "2026-08-29T17:55:25Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.5/install.sh"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 8685548,
       "digest": "sha256:ebf77494739730936590a0b4e8ea2e3cd84cd4531734adc88c0cfdce101c99f2",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-08-29T17:55:27Z",
       "updated_at": "2026-08-29T17:55:28Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.5/mcat-v0.6.5-aarch64-unknown-linux-musl.tar.xz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 12908747,
       "digest": "sha256:51a8bfda59f5dbc5a5b286cfbb94c5919d484ea8db00a35fab15fc863423e15c",
-      "download_count": 126,
+      "download_count": 127,
       "created_at": "2026-08-29T17:55:28Z",
       "updated_at": "2026-08-29T17:55:28Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.5/mcat-v0.6.5-x86_64-pc-windows-msvc.zip"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 10387572,
       "digest": "sha256:8a1e09f63e5e079ae4cd35a9a83f3c1fac92e5e328cd645e752e1bbdaefaa45c",
-      "download_count": 228,
+      "download_count": 232,
       "created_at": "2026-08-29T17:55:28Z",
       "updated_at": "2026-08-29T17:55:29Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.5/mcat-v0.6.5-x86_64-unknown-linux-gnu.tar.xz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 9968860,
       "digest": "sha256:c9fbaeea163abd3b7ee6486c3decfb32a468eaa07a2ce009b4247ba39d60cabc",
-      "download_count": 49,
+      "download_count": 50,
       "created_at": "2026-08-29T17:55:28Z",
       "updated_at": "2026-08-29T17:55:29Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.5/mcat-v0.6.5-x86_64-unknown-linux-musl.tar.xz"
