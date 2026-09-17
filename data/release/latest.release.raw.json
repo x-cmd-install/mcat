@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 942,
       "digest": "sha256:7fe86ca374bbd1f50fb634aa659e5589a7676ffa7a667e7a8905d825199f1cb4",
-      "download_count": 15,
+      "download_count": 20,
       "created_at": "2026-08-29T17:55:25Z",
       "updated_at": "2026-08-29T17:55:25Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.5/install.sh"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 10537977,
       "digest": "sha256:c47ca0a53d42cbc35b5242264c7200ba1fd05f67b63e8b0084dd70addd01a0b8",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-08-29T17:55:25Z",
       "updated_at": "2026-08-29T17:55:25Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.5/mcat-0.6.5-1.aarch64.rpm"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 9261156,
       "digest": "sha256:09c8b1c295583959497ded8cad79e67e15f033eb51325a245f582889e723d7bc",
-      "download_count": 46,
+      "download_count": 51,
       "created_at": "2026-08-29T17:55:27Z",
       "updated_at": "2026-08-29T17:55:28Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.5/mcat-v0.6.5-aarch64-unknown-linux-gnu.tar.xz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 8685548,
       "digest": "sha256:ebf77494739730936590a0b4e8ea2e3cd84cd4531734adc88c0cfdce101c99f2",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-08-29T17:55:27Z",
       "updated_at": "2026-08-29T17:55:28Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.5/mcat-v0.6.5-aarch64-unknown-linux-musl.tar.xz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 10387572,
       "digest": "sha256:8a1e09f63e5e079ae4cd35a9a83f3c1fac92e5e328cd645e752e1bbdaefaa45c",
-      "download_count": 261,
+      "download_count": 267,
       "created_at": "2026-08-29T17:55:28Z",
       "updated_at": "2026-08-29T17:55:29Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.5/mcat-v0.6.5-x86_64-unknown-linux-gnu.tar.xz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 9968860,
       "digest": "sha256:c9fbaeea163abd3b7ee6486c3decfb32a468eaa07a2ce009b4247ba39d60cabc",
-      "download_count": 64,
+      "download_count": 70,
       "created_at": "2026-08-29T17:55:28Z",
       "updated_at": "2026-08-29T17:55:29Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.5/mcat-v0.6.5-x86_64-unknown-linux-musl.tar.xz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 10434088,
       "digest": "sha256:6dbe01dbed15dc3b632ca61a90e1df098fc0c3319cc7495baabd3f91dc540ec9",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-08-29T17:55:28Z",
       "updated_at": "2026-08-29T17:55:29Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.5/mcat_0.6.5_amd64.deb"
