@@ -4,7 +4,7 @@
 
 Terminal image, video, PDF, and Markdown viewer
 
-![mcat](https://repo.x-cmd.io/mcat.svg?lang=zh)
+[![x-cmd/install — mcat Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mcat.svg?lang=zh)](https://x-cmd.com/install/mcat)
 
 ## 安装
 
@@ -37,7 +37,7 @@ x install mcat
 
 ## 流行度
 
-- **Star**: 1,416 · **Fork**: 51 · **开放 issue**: 69 · **贡献者**: 9
+- **Star**: 1,417 · **Fork**: 51 · **开放 issue**: 69 · **贡献者**: 9
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install mcat
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 0 | 0 | 1 | 3 | 17 |
-| last60d | 2026-07-20 | 3 | 1 | 0 | 7 | 4 | 34 |
-| 90d | 2026-06-20 | 3 | 3 | 0 | 7 | 4 | 40 |
-| last180d | 2026-03-22 | 14 | 5 | 0 | 18 | 7 | 204 |
-| 360d | 2025-09-23 | 17 | 11 | 1 | 42 | 10 | 276 |
-| last720d | 2024-09-28 | 33 | 22 | 1 | 59 | 10 | 613 |
+| 30d | 2026-08-21 | 1 | 0 | 0 | 1 | 3 | 9 |
+| last60d | 2026-07-22 | 2 | 1 | 0 | 6 | 4 | 30 |
+| 90d | 2026-06-22 | 3 | 3 | 0 | 7 | 4 | 40 |
+| last180d | 2026-03-24 | 14 | 5 | 0 | 17 | 7 | 186 |
+| 360d | 2025-09-25 | 17 | 11 | 1 | 42 | 10 | 276 |
+| last720d | 2024-09-30 | 33 | 22 | 1 | 59 | 10 | 613 |
 
 ## Release 资产
 
@@ -100,4 +100,4 @@ mcat 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:38:07Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:55:36Z._
