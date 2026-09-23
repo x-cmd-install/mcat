@@ -4,7 +4,7 @@
 
 Terminal image, video, PDF, and Markdown viewer
 
-[![x-cmd/install — mcat Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mcat.svg)](https://x-cmd.com/install/mcat)
+[![x-cmd/install — mcat Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/mcat.svg)](https://x-cmd.com/install/mcat)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **12,547** lines of code across **51** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,418 · **Forks**: 51 · **Open issues**: 69 · **Contributors**: 9
+- **Stars**: 1,418 · **Forks**: 51 · **Open issues**: 70 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 22 · **Open PRs**: 1 · **Closed issues**: 59 · **Open issues**: 10 · **Commits**: 613
+- **Releases**: 33 · **Merged PRs**: 22 · **Open PRs**: 1 · **Closed issues**: 59 · **Open issues**: 11 · **Commits**: 613
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 0 | 0 | 1 | 3 | 9 |
-| last60d | 2026-07-24 | 2 | 1 | 0 | 6 | 4 | 30 |
-| 90d | 2026-06-24 | 3 | 3 | 0 | 7 | 4 | 40 |
-| last180d | 2026-03-26 | 14 | 5 | 0 | 17 | 7 | 186 |
-| 360d | 2025-09-27 | 17 | 11 | 1 | 42 | 10 | 276 |
-| last720d | 2024-10-02 | 33 | 22 | 1 | 59 | 10 | 613 |
+| 30d | 2026-08-24 | 1 | 0 | 0 | 1 | 4 | 9 |
+| last60d | 2026-07-25 | 2 | 1 | 0 | 6 | 5 | 30 |
+| 90d | 2026-06-25 | 3 | 3 | 0 | 7 | 5 | 40 |
+| last180d | 2026-03-27 | 14 | 5 | 0 | 17 | 8 | 186 |
+| 360d | 2025-09-28 | 17 | 11 | 1 | 42 | 11 | 276 |
+| last720d | 2024-10-03 | 33 | 22 | 1 | 59 | 11 | 613 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for mcat lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:47:10Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:40:50Z._
