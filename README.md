@@ -37,22 +37,22 @@ Total: **12,547** lines of code across **51** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,441 · **Forks**: 56 · **Open issues**: 71 · **Contributors**: 9
+- **Stars**: 1,441 · **Forks**: 56 · **Open issues**: 72 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 22 · **Open PRs**: 3 · **Closed issues**: 60 · **Open issues**: 11 · **Commits**: 614
+- **Releases**: 33 · **Merged PRs**: 22 · **Open PRs**: 3 · **Closed issues**: 60 · **Open issues**: 12 · **Commits**: 614
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 0 | 2 | 1 | 1 | 1 |
-| last60d | 2026-08-20 | 1 | 0 | 2 | 2 | 4 | 10 |
-| 90d | 2026-07-21 | 3 | 1 | 2 | 7 | 5 | 34 |
-| last180d | 2026-04-22 | 9 | 5 | 2 | 14 | 8 | 63 |
-| 360d | 2025-10-24 | 17 | 11 | 3 | 43 | 11 | 277 |
-| last720d | 2024-10-29 | 33 | 22 | 3 | 60 | 11 | 614 |
+| 30d | 2026-09-20 | 0 | 0 | 2 | 1 | 2 | 1 |
+| last60d | 2026-08-21 | 1 | 0 | 2 | 2 | 5 | 10 |
+| 90d | 2026-07-22 | 2 | 1 | 2 | 7 | 6 | 34 |
+| last180d | 2026-04-23 | 9 | 5 | 2 | 14 | 8 | 63 |
+| 360d | 2025-10-25 | 17 | 11 | 3 | 43 | 12 | 277 |
+| last720d | 2024-10-30 | 33 | 22 | 3 | 60 | 12 | 614 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for mcat lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:37:49Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:05:56Z._
