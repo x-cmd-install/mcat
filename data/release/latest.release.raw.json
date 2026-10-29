@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 8821428,
       "digest": "sha256:d82598e4e7e1a46e73b74e7db26973e8912810f26d171d7f9c1f9a957f6d3585",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-10-24T12:00:33Z",
       "updated_at": "2026-10-24T12:00:33Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.7/mcat-v0.6.7-aarch64-apple-darwin.tar.xz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 12964294,
       "digest": "sha256:c04604d5529f9de5fa5d30629b4c1a4ee4516ab61c98cd524fd8de616cfcaf77",
-      "download_count": 99,
+      "download_count": 106,
       "created_at": "2026-10-24T12:00:34Z",
       "updated_at": "2026-10-24T12:00:35Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.7/mcat-v0.6.7-x86_64-pc-windows-msvc.zip"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": "sha256:8d0253c8960e66bb7610633b507ca5a3c0e48aa91f512ef657f593579b2228af",
-      "download_count": 16,
+      "download_count": 19,
       "created_at": "2026-10-24T12:00:34Z",
       "updated_at": "2026-10-24T12:00:34Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.7/mcat-v0.6.7-x86_64-pc-windows-msvc.zip.sha256"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 10444532,
       "digest": "sha256:c260b5d0ef1389df2aaafe8bdc87af843f0e282259d3ab431cedf4ac150d3f4d",
-      "download_count": 51,
+      "download_count": 58,
       "created_at": "2026-10-24T12:00:34Z",
       "updated_at": "2026-10-24T12:00:35Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.7/mcat-v0.6.7-x86_64-unknown-linux-gnu.tar.xz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 110,
       "digest": "sha256:de86377921522a1c13aecfa4bf744bf157bd42a00dbd9c7250036aa200be8de6",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-10-24T12:00:34Z",
       "updated_at": "2026-10-24T12:00:35Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.7/mcat-v0.6.7-x86_64-unknown-linux-gnu.tar.xz.sha256"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 10036352,
       "digest": "sha256:bb82b08ba3264a13f335aeef8cf69ac2b540d041381a79edcb1e4502b2a310a0",
-      "download_count": 26,
+      "download_count": 28,
       "created_at": "2026-10-24T12:00:35Z",
       "updated_at": "2026-10-24T12:00:35Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.7/mcat-v0.6.7-x86_64-unknown-linux-musl.tar.xz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 10497844,
       "digest": "sha256:5a8698fd2c1d0803d745375326760e6380d4117a8175827564f08d86705a27c4",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-10-24T12:00:35Z",
       "updated_at": "2026-10-24T12:00:36Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.7/mcat_0.6.7_amd64.deb"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 87,
       "digest": "sha256:09ec1222d961cf260512fca5a492aa6ded7e65bd0bc89a53bd125aeb8baf02ca",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-24T12:00:35Z",
       "updated_at": "2026-10-24T12:00:36Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.7/mcat_0.6.7_amd64.deb.sha256"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 87,
       "digest": "sha256:8751e9f19973877a8e18f1a2b05c0fc3ad1884a383944fa2b1c5cd5ddc4550ba",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-24T12:00:35Z",
       "updated_at": "2026-10-24T12:00:36Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.7/mcat_0.6.7_arm64.deb.sha256"
