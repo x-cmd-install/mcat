@@ -16,12 +16,12 @@
   visiblename: mcat
   version: 0.6.7
   origversion: null
-  status: newest
+  status: outdated
   summary: Terminal image, video, and Markdown viewer.
 - repo: homebrew
   srcname: mcat
   visiblename: mcat
-  version: 0.6.7
+  version: 0.6.8
   origversion: null
   status: newest
   summary: Terminal image, video, directory, and Markdown viewer
@@ -57,7 +57,7 @@
 - repo: nix_unstable
   srcname: mcat-unwrapped
   visiblename: mcat-unwrapped
-  version: 0.6.5
+  version: 0.6.7
   origversion: null
   status: outdated
   summary: cat command for documents / images / videos and more
@@ -69,7 +69,7 @@
   subrepo: main
   binname: mcat
   visiblename: mcat
-  version: 0.6.7
+  version: 0.6.8
   origversion: null
   status: newest
   licenses:
