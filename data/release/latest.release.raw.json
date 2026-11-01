@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 8834564,
       "digest": "sha256:8c04f628ca848dc97b322b3470efe62fd8e5de28ae103df9dcfe638108cf4263",
-      "download_count": 5,
+      "download_count": 11,
       "created_at": "2026-10-30T21:03:41Z",
       "updated_at": "2026-10-30T21:03:42Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-aarch64-apple-darwin.tar.xz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 8736344,
       "digest": "sha256:0ff7e73575e297d4d6f9fcf98a49afa5104b39eb67618af1d47efd9d690533a3",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-10-30T21:03:42Z",
       "updated_at": "2026-10-30T21:03:43Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-aarch64-unknown-linux-musl.tar.xz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 10038412,
       "digest": "sha256:020c3f4deb587ce6780c5c877ca3c2279a53153b8a0ebd4cb9b07814c686c69e",
-      "download_count": 5,
+      "download_count": 9,
       "created_at": "2026-10-30T21:03:43Z",
       "updated_at": "2026-10-30T21:03:43Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-apple-darwin.tar.xz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 12968614,
       "digest": "sha256:92df165b80e62bdeac82b9087579918cd8919bc021d051f9b0a4c0b16986336b",
-      "download_count": 17,
+      "download_count": 53,
       "created_at": "2026-10-30T21:03:43Z",
       "updated_at": "2026-10-30T21:03:43Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-pc-windows-msvc.zip"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": "sha256:75dbfeb57e2d1b41aaf4ce2380dcaba9f793667a1a202f837d5a3f87b1444219",
-      "download_count": 7,
+      "download_count": 20,
       "created_at": "2026-10-30T21:03:43Z",
       "updated_at": "2026-10-30T21:03:43Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-pc-windows-msvc.zip.sha256"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 10443128,
       "digest": "sha256:0e88a04c8c8a7485f0a75f9c33865824bbf3f64785fdf250fbb50545ea84e247",
-      "download_count": 9,
+      "download_count": 23,
       "created_at": "2026-10-30T21:03:43Z",
       "updated_at": "2026-10-30T21:03:44Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-unknown-linux-gnu.tar.xz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 10039528,
       "digest": "sha256:c58a6e08d0c1599f3a401f0e9515443ee2d3cd8ed4d08f57fe9734a6a60b4d04",
-      "download_count": 7,
+      "download_count": 12,
       "created_at": "2026-10-30T21:03:43Z",
       "updated_at": "2026-10-30T21:03:44Z",
       "browser_download_url": "https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-unknown-linux-musl.tar.xz"
@@ -1191,5 +1191,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/Skardyy/mcat/tarball/v0.6.8",
   "zipball_url": "https://api.github.com/repos/Skardyy/mcat/zipball/v0.6.8",
-  "body": "## Changelog\n\n- improved image/video encoder logic, now splitted kitty features to do different things according to the depth of support to the kitty protocol rather then just supported binary\n- improved tmux support\n- imporved the image encoder selection to prefer iterm or sixel over kitty when in tmux and the terminal doesn't support kitty unicode placeholder ext, works better\n- added kitty animation support for when the terminal supports kitty but not the animation ext\n- added kitty animation support for macos and bsd too, previously was just locked to linux, still only works on kitty terminal\n- fixed an issue where video from url/stdin won't be looped\n- fixed kitty animation failing on wrong shm name\n- fixed an issue where images in markdown won't appear in tmux\n\n## Install\n\n**Linux / macOS**\n```bash\ncurl -fsSL https://github.com/Skardyy/mcat/releases/download/v0.6.8/install.sh | sh\n```\n\n**PowerShell (Windows)**\n```powershell\nirm https://github.com/Skardyy/mcat/releases/download/v0.6.8/install.ps1 | iex\n```\n\n**Debian / Ubuntu (.deb)**\n```bash\n# glibc\ncurl -LO https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat_0.6.8_amd64.deb\nsudo dpkg -i mcat_0.6.8_amd64.deb\n\n# musl\ncurl -LO https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl_0.6.8_amd64.deb\nsudo dpkg -i mcat-musl_0.6.8_amd64.deb\n```\n\n**Fedora / RHEL (.rpm)**\n```bash\n# glibc\nsudo dnf install https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-0.6.8-1.x86_64.rpm\n\n# musl\nsudo dnf install https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl-0.6.8-1.x86_64.rpm\n```\n\n## Download\n\n| File | Platform | Checksum |\n|------|----------|----------|\n| [mcat-v0.6.8-x86_64-apple-darwin.tar.xz](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-apple-darwin.tar.xz) | Intel macOS | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-apple-darwin.tar.xz.sha256) |\n| [mcat-v0.6.8-aarch64-apple-darwin.tar.xz](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-aarch64-apple-darwin.tar.xz) | Apple Silicon macOS | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-aarch64-apple-darwin.tar.xz.sha256) |\n| [mcat-v0.6.8-x86_64-unknown-linux-gnu.tar.xz](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-unknown-linux-gnu.tar.xz) | x64 Linux (gnu) | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-unknown-linux-gnu.tar.xz.sha256) |\n| [mcat-v0.6.8-aarch64-unknown-linux-gnu.tar.xz](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-aarch64-unknown-linux-gnu.tar.xz) | ARM64 Linux (gnu) | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-aarch64-unknown-linux-gnu.tar.xz.sha256) |\n| [mcat-v0.6.8-x86_64-unknown-linux-musl.tar.xz](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-unknown-linux-musl.tar.xz) | x64 Linux (musl) | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-unknown-linux-musl.tar.xz.sha256) |\n| [mcat-v0.6.8-aarch64-unknown-linux-musl.tar.xz](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-aarch64-unknown-linux-musl.tar.xz) | ARM64 Linux (musl) | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-aarch64-unknown-linux-musl.tar.xz.sha256) |\n| [mcat-v0.6.8-x86_64-pc-windows-msvc.zip](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-pc-windows-msvc.zip) | x64 Windows | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-pc-windows-msvc.zip.sha256) |\n| [mcat_0.6.8_amd64.deb](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat_0.6.8_amd64.deb) | x64 Debian/Ubuntu (gnu) | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat_0.6.8_amd64.deb.sha256) |\n| [mcat_0.6.8_arm64.deb](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat_0.6.8_arm64.deb) | ARM64 Debian/Ubuntu (gnu) | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat_0.6.8_arm64.deb.sha256) |\n| [mcat-musl_0.6.8_amd64.deb](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl_0.6.8_amd64.deb) | x64 Debian/Ubuntu (musl) | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl_0.6.8_amd64.deb.sha256) |\n| [mcat-musl_0.6.8_arm64.deb](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl_0.6.8_arm64.deb) | ARM64 Debian/Ubuntu (musl) | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl_0.6.8_arm64.deb.sha256) |\n| [mcat-0.6.8-1.x86_64.rpm](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-0.6.8-1.x86_64.rpm) | x64 Fedora/RHEL (gnu) | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-0.6.8-1.x86_64.rpm.sha256) |\n| [mcat-0.6.8-1.aarch64.rpm](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-0.6.8-1.aarch64.rpm) | ARM64 Fedora/RHEL (gnu) | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-0.6.8-1.aarch64.rpm.sha256) |\n| [mcat-musl-0.6.8-1.x86_64.rpm](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl-0.6.8-1.x86_64.rpm) | x64 Fedora/RHEL (musl) | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl-0.6.8-1.x86_64.rpm.sha256) |\n| [mcat-musl-0.6.8-1.aarch64.rpm](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl-0.6.8-1.aarch64.rpm) | ARM64 Fedora/RHEL (musl) | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl-0.6.8-1.aarch64.rpm.sha256) |\n"
+  "body": "## Changelog\n\n- improved image/video encoder logic, now splitted kitty features to do different things according to the depth of support to the kitty protocol rather then just supported binary\n- improved tmux support\n- imporved the image encoder selection to prefer iterm or sixel over kitty when in tmux and the terminal doesn't support kitty unicode placeholder ext, works better\n- added kitty animation support for when the terminal supports kitty but not the animation ext\n- added kitty animation support for macos and bsd too, previously was just locked to linux, still only works on kitty terminal\n- fixed an issue where video from url/stdin won't be looped\n- fixed kitty animation failing on wrong shm name\n- fixed an issue where images in markdown won't appear in tmux\n\n## Install\n\n**Linux / macOS**\n```bash\ncurl -fsSL https://github.com/Skardyy/mcat/releases/download/v0.6.8/install.sh | sh\n```\n\n**PowerShell (Windows)**\n```powershell\nirm https://github.com/Skardyy/mcat/releases/download/v0.6.8/install.ps1 | iex\n```\n\n**Debian / Ubuntu (.deb)**\n```bash\n# glibc\ncurl -LO https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat_0.6.8_amd64.deb\nsudo dpkg -i mcat_0.6.8_amd64.deb\n\n# musl\ncurl -LO https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl_0.6.8_amd64.deb\nsudo dpkg -i mcat-musl_0.6.8_amd64.deb\n```\n\n**Fedora / RHEL (.rpm)**\n```bash\n# glibc\nsudo dnf install https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-0.6.8-1.x86_64.rpm\n\n# musl\nsudo dnf install https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl-0.6.8-1.x86_64.rpm\n```\n\n## Download\n\n| File | Platform | Checksum |\n|------|----------|----------|\n| [mcat-v0.6.8-x86_64-apple-darwin.tar.xz](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-apple-darwin.tar.xz) | Intel macOS | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-apple-darwin.tar.xz.sha256) |\n| [mcat-v0.6.8-aarch64-apple-darwin.tar.xz](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-aarch64-apple-darwin.tar.xz) | Apple Silicon macOS | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-aarch64-apple-darwin.tar.xz.sha256) |\n| [mcat-v0.6.8-x86_64-unknown-linux-gnu.tar.xz](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-unknown-linux-gnu.tar.xz) | x64 Linux (gnu) | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-unknown-linux-gnu.tar.xz.sha256) |\n| [mcat-v0.6.8-aarch64-unknown-linux-gnu.tar.xz](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-aarch64-unknown-linux-gnu.tar.xz) | ARM64 Linux (gnu) | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-aarch64-unknown-linux-gnu.tar.xz.sha256) |\n| [mcat-v0.6.8-x86_64-unknown-linux-musl.tar.xz](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-unknown-linux-musl.tar.xz) | x64 Linux (musl) | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-unknown-linux-musl.tar.xz.sha256) |\n| [mcat-v0.6.8-aarch64-unknown-linux-musl.tar.xz](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-aarch64-unknown-linux-musl.tar.xz) | ARM64 Linux (musl) | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-aarch64-unknown-linux-musl.tar.xz.sha256) |\n| [mcat-v0.6.8-x86_64-pc-windows-msvc.zip](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-pc-windows-msvc.zip) | x64 Windows | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-pc-windows-msvc.zip.sha256) |\n| [mcat_0.6.8_amd64.deb](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat_0.6.8_amd64.deb) | x64 Debian/Ubuntu (gnu) | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat_0.6.8_amd64.deb.sha256) |\n| [mcat_0.6.8_arm64.deb](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat_0.6.8_arm64.deb) | ARM64 Debian/Ubuntu (gnu) | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat_0.6.8_arm64.deb.sha256) |\n| [mcat-musl_0.6.8_amd64.deb](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl_0.6.8_amd64.deb) | x64 Debian/Ubuntu (musl) | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl_0.6.8_amd64.deb.sha256) |\n| [mcat-musl_0.6.8_arm64.deb](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl_0.6.8_arm64.deb) | ARM64 Debian/Ubuntu (musl) | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl_0.6.8_arm64.deb.sha256) |\n| [mcat-0.6.8-1.x86_64.rpm](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-0.6.8-1.x86_64.rpm) | x64 Fedora/RHEL (gnu) | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-0.6.8-1.x86_64.rpm.sha256) |\n| [mcat-0.6.8-1.aarch64.rpm](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-0.6.8-1.aarch64.rpm) | ARM64 Fedora/RHEL (gnu) | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-0.6.8-1.aarch64.rpm.sha256) |\n| [mcat-musl-0.6.8-1.x86_64.rpm](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl-0.6.8-1.x86_64.rpm) | x64 Fedora/RHEL (musl) | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl-0.6.8-1.x86_64.rpm.sha256) |\n| [mcat-musl-0.6.8-1.aarch64.rpm](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl-0.6.8-1.aarch64.rpm) | ARM64 Fedora/RHEL (musl) | [checksum](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl-0.6.8-1.aarch64.rpm.sha256) |\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/Skardyy/mcat/releases/429487847/reactions",
+    "total_count": 2,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 1,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
