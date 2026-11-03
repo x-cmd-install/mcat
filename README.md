@@ -14,15 +14,15 @@ x install mcat
 
 ## Code insight
 
-Total: **12,903** lines of code across **51** files in the top 5 languages.
+Total: **12,876** lines of code across **51** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 12,473 | 232 | 1,525 | 33 |
+| Rust | 12,446 | 232 | 1,525 | 33 |
 | Toml | 291 | 0 | 27 | 4 |
 | Css | 126 | 3 | 23 | 1 |
 | Svg | 13 | 0 | 0 | 7 |
-| Markdown | 0 | 452 | 174 | 6 |
+| Markdown | 0 | 458 | 177 | 6 |
 
 ## Source
 
@@ -32,7 +32,7 @@ Total: **12,903** lines of code across **51** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.6.8` (2026-10-30)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-11-02
 - **Assets in release**: 32
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **12,903** lines of code across **51** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 26 · **Open PRs**: 1 · **Closed issues**: 66 · **Open issues**: 7 · **Commits**: 626
+- **Releases**: 36 · **Merged PRs**: 27 · **Open PRs**: 0 · **Closed issues**: 66 · **Open issues**: 7 · **Commits**: 629
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 3 | 4 | 1 | 3 | 0 | 12 |
-| last60d | 2026-09-03 | 3 | 4 | 1 | 6 | 1 | 14 |
-| 90d | 2026-08-04 | 4 | 4 | 1 | 7 | 1 | 31 |
-| last180d | 2026-05-06 | 7 | 9 | 1 | 18 | 3 | 70 |
-| 360d | 2025-11-07 | 19 | 14 | 1 | 45 | 6 | 274 |
-| last720d | 2024-11-12 | 36 | 26 | 1 | 66 | 7 | 626 |
+| 30d | 2026-10-04 | 3 | 5 | 0 | 3 | 0 | 15 |
+| last60d | 2026-09-04 | 3 | 5 | 0 | 6 | 1 | 17 |
+| 90d | 2026-08-05 | 4 | 5 | 0 | 7 | 1 | 34 |
+| last180d | 2026-05-07 | 7 | 10 | 0 | 18 | 3 | 73 |
+| 360d | 2025-11-08 | 19 | 15 | 0 | 44 | 6 | 277 |
+| last720d | 2024-11-13 | 36 | 27 | 0 | 66 | 7 | 629 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for mcat lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:03:04Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:38:53Z._
