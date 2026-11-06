@@ -14,9 +14,9 @@
   srcname: mcat
   binname: mcat
   visiblename: mcat
-  version: 0.6.7
+  version: 0.6.8
   origversion: null
-  status: outdated
+  status: newest
   summary: Terminal image, video, and Markdown viewer.
 - repo: homebrew
   srcname: mcat
