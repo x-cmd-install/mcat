@@ -37,22 +37,22 @@ Total: **12,876** lines of code across **51** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,461 · **Forks**: 57 · **Open issues**: 73 · **Contributors**: 11
+- **Stars**: 1,462 · **Forks**: 57 · **Open issues**: 74 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 27 · **Open PRs**: 0 · **Closed issues**: 66 · **Open issues**: 7 · **Commits**: 629
+- **Releases**: 36 · **Merged PRs**: 27 · **Open PRs**: 0 · **Closed issues**: 66 · **Open issues**: 8 · **Commits**: 629
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 3 | 5 | 0 | 3 | 0 | 15 |
-| last60d | 2026-09-06 | 3 | 5 | 0 | 6 | 1 | 17 |
-| 90d | 2026-08-07 | 4 | 5 | 0 | 7 | 1 | 34 |
-| last180d | 2026-05-09 | 7 | 10 | 0 | 18 | 2 | 73 |
-| 360d | 2025-11-10 | 19 | 15 | 0 | 43 | 6 | 277 |
-| last720d | 2024-11-15 | 36 | 27 | 0 | 66 | 7 | 629 |
+| 30d | 2026-10-07 | 3 | 5 | 0 | 3 | 1 | 15 |
+| last60d | 2026-09-07 | 3 | 5 | 0 | 6 | 2 | 17 |
+| 90d | 2026-08-08 | 4 | 5 | 0 | 7 | 2 | 34 |
+| last180d | 2026-05-10 | 7 | 10 | 0 | 18 | 3 | 73 |
+| 360d | 2025-11-11 | 19 | 15 | 0 | 42 | 7 | 277 |
+| last720d | 2024-11-16 | 36 | 27 | 0 | 66 | 8 | 629 |
 
 ## Release assets
 
@@ -93,7 +93,7 @@ Total: **12,876** lines of code across **51** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **8** distros on [repology.org](https://repology.org/project/mcat). **2** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **8** distros on [repology.org](https://repology.org/project/mcat). **3** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -109,4 +109,4 @@ Install metadata for mcat lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:34:48Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:29:16Z._
