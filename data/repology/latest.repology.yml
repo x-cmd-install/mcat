@@ -57,9 +57,9 @@
 - repo: nix_unstable
   srcname: mcat-unwrapped
   visiblename: mcat-unwrapped
-  version: 0.6.7
+  version: 0.6.8
   origversion: null
-  status: outdated
+  status: newest
   summary: cat command for documents / images / videos and more
   maintainers:
     - louis-thevenet@github
