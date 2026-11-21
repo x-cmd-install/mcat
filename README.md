@@ -14,15 +14,15 @@ x install mcat
 
 ## Code insight
 
-Total: **12,876** lines of code across **51** files in the top 5 languages.
+Total: **12,986** lines of code across **51** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 12,446 | 232 | 1,525 | 33 |
+| Rust | 12,556 | 234 | 1,535 | 33 |
 | Toml | 291 | 0 | 27 | 4 |
 | Css | 126 | 3 | 23 | 1 |
 | Svg | 13 | 0 | 0 | 7 |
-| Markdown | 0 | 458 | 177 | 6 |
+| Markdown | 0 | 462 | 179 | 6 |
 
 ## Source
 
@@ -31,74 +31,74 @@ Total: **12,876** lines of code across **51** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.6.8` (2026-10-30)
-- **Last commit**: 2026-11-15
+- **Latest**: `v0.6.9` (2026-11-20)
+- **Last commit**: 2026-11-20
 - **Assets in release**: 32
 
 ## Popularity
 
-- **Stars**: 1,476 · **Forks**: 62 · **Open issues**: 76 · **Contributors**: 13
+- **Stars**: 1,477 · **Forks**: 62 · **Open issues**: 76 · **Contributors**: 14
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 28 · **Open PRs**: 2 · **Closed issues**: 68 · **Open issues**: 8 · **Commits**: 630
+- **Releases**: 37 · **Merged PRs**: 31 · **Open PRs**: 0 · **Closed issues**: 69 · **Open issues**: 7 · **Commits**: 638
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 3 | 4 | 2 | 3 | 1 | 16 |
-| last60d | 2026-09-21 | 3 | 6 | 2 | 6 | 1 | 17 |
-| 90d | 2026-08-22 | 4 | 6 | 2 | 9 | 2 | 26 |
-| last180d | 2026-05-24 | 7 | 11 | 2 | 18 | 3 | 70 |
-| 360d | 2025-11-25 | 18 | 16 | 2 | 41 | 6 | 263 |
-| last720d | 2024-11-30 | 36 | 28 | 2 | 68 | 8 | 630 |
+| 30d | 2026-10-22 | 4 | 7 | 0 | 4 | 0 | 24 |
+| last60d | 2026-09-22 | 4 | 9 | 0 | 7 | 0 | 25 |
+| 90d | 2026-08-23 | 5 | 9 | 0 | 10 | 1 | 34 |
+| last180d | 2026-05-25 | 8 | 14 | 0 | 19 | 2 | 78 |
+| 360d | 2025-11-26 | 19 | 19 | 0 | 42 | 5 | 271 |
+| last720d | 2024-12-01 | 37 | 31 | 0 | 69 | 7 | 638 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [install.ps1](https://github.com/Skardyy/mcat/releases/download/v0.6.8/install.ps1) | 721 B | `other` |
-| [install.sh](https://github.com/Skardyy/mcat/releases/download/v0.6.8/install.sh) | 942 B | `other` |
-| [mcat-0.6.8-1.aarch64.rpm](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-0.6.8-1.aarch64.rpm) | 10.1 MiB | `runtime/rpm/aarch64` |
-| [mcat-0.6.8-1.aarch64.rpm.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-0.6.8-1.aarch64.rpm.sha256) | 91 B | `other` |
-| [mcat-0.6.8-1.x86_64.rpm](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-0.6.8-1.x86_64.rpm) | 10.7 MiB | `runtime/rpm/x86_64` |
-| [mcat-0.6.8-1.x86_64.rpm.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-0.6.8-1.x86_64.rpm.sha256) | 90 B | `other` |
-| [mcat-musl-0.6.8-1.aarch64.rpm](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl-0.6.8-1.aarch64.rpm) | 9.4 MiB | `runtime/rpm/aarch64` |
-| [mcat-musl-0.6.8-1.aarch64.rpm.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl-0.6.8-1.aarch64.rpm.sha256) | 96 B | `other` |
-| [mcat-musl-0.6.8-1.x86_64.rpm](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl-0.6.8-1.x86_64.rpm) | 10.2 MiB | `runtime/rpm/x86_64` |
-| [mcat-musl-0.6.8-1.x86_64.rpm.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl-0.6.8-1.x86_64.rpm.sha256) | 95 B | `other` |
-| [mcat-musl_0.6.8_amd64.deb](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl_0.6.8_amd64.deb) | 9.6 MiB | `runtime/deb/amd64` |
-| [mcat-musl_0.6.8_amd64.deb.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl_0.6.8_amd64.deb.sha256) | 92 B | `other` |
-| [mcat-musl_0.6.8_arm64.deb](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl_0.6.8_arm64.deb) | 8.3 MiB | `runtime/deb/arm64` |
-| [mcat-musl_0.6.8_arm64.deb.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-musl_0.6.8_arm64.deb.sha256) | 92 B | `other` |
-| [mcat-v0.6.8-aarch64-apple-darwin.tar.xz](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-aarch64-apple-darwin.tar.xz) | 8.4 MiB | `native/darwin/arm64` |
-| [mcat-v0.6.8-aarch64-apple-darwin.tar.xz.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-aarch64-apple-darwin.tar.xz.sha256) | 106 B | `native/darwin/arm64` |
-| [mcat-v0.6.8-aarch64-unknown-linux-gnu.tar.xz](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-aarch64-unknown-linux-gnu.tar.xz) | 8.9 MiB | `native/linux/arm64/glibc` |
-| [mcat-v0.6.8-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-aarch64-unknown-linux-gnu.tar.xz.sha256) | 111 B | `native/linux/arm64/glibc` |
-| [mcat-v0.6.8-aarch64-unknown-linux-musl.tar.xz](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-aarch64-unknown-linux-musl.tar.xz) | 8.3 MiB | `native/linux/arm64/musl` |
-| [mcat-v0.6.8-aarch64-unknown-linux-musl.tar.xz.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-aarch64-unknown-linux-musl.tar.xz.sha256) | 112 B | `native/linux/arm64/musl` |
-| [mcat-v0.6.8-x86_64-apple-darwin.tar.xz](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-apple-darwin.tar.xz) | 9.6 MiB | `native/darwin/x64` |
-| [mcat-v0.6.8-x86_64-apple-darwin.tar.xz.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-apple-darwin.tar.xz.sha256) | 105 B | `native/darwin/x64` |
-| [mcat-v0.6.8-x86_64-pc-windows-msvc.zip](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-pc-windows-msvc.zip) | 12.4 MiB | `native/win/x64` |
-| [mcat-v0.6.8-x86_64-pc-windows-msvc.zip.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-pc-windows-msvc.zip.sha256) | 105 B | `native/win/x64` |
-| [mcat-v0.6.8-x86_64-unknown-linux-gnu.tar.xz](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-unknown-linux-gnu.tar.xz) | 10.0 MiB | `native/linux/x64/glibc` |
-| [mcat-v0.6.8-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-unknown-linux-gnu.tar.xz.sha256) | 110 B | `native/linux/x64/glibc` |
-| [mcat-v0.6.8-x86_64-unknown-linux-musl.tar.xz](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-unknown-linux-musl.tar.xz) | 9.6 MiB | `native/linux/x64/musl` |
-| [mcat-v0.6.8-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat-v0.6.8-x86_64-unknown-linux-musl.tar.xz.sha256) | 111 B | `native/linux/x64/musl` |
-| [mcat_0.6.8_amd64.deb](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat_0.6.8_amd64.deb) | 10.0 MiB | `runtime/deb/amd64` |
-| [mcat_0.6.8_amd64.deb.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat_0.6.8_amd64.deb.sha256) | 87 B | `other` |
-| [mcat_0.6.8_arm64.deb](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat_0.6.8_arm64.deb) | 8.9 MiB | `runtime/deb/arm64` |
-| [mcat_0.6.8_arm64.deb.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.8/mcat_0.6.8_arm64.deb.sha256) | 87 B | `other` |
+| [install.ps1](https://github.com/Skardyy/mcat/releases/download/v0.6.9/install.ps1) | 721 B | `other` |
+| [install.sh](https://github.com/Skardyy/mcat/releases/download/v0.6.9/install.sh) | 942 B | `other` |
+| [mcat-0.6.9-1.aarch64.rpm](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-0.6.9-1.aarch64.rpm) | 10.1 MiB | `runtime/rpm/aarch64` |
+| [mcat-0.6.9-1.aarch64.rpm.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-0.6.9-1.aarch64.rpm.sha256) | 91 B | `other` |
+| [mcat-0.6.9-1.x86_64.rpm](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-0.6.9-1.x86_64.rpm) | 10.8 MiB | `runtime/rpm/x86_64` |
+| [mcat-0.6.9-1.x86_64.rpm.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-0.6.9-1.x86_64.rpm.sha256) | 90 B | `other` |
+| [mcat-musl-0.6.9-1.aarch64.rpm](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-musl-0.6.9-1.aarch64.rpm) | 9.4 MiB | `runtime/rpm/aarch64` |
+| [mcat-musl-0.6.9-1.aarch64.rpm.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-musl-0.6.9-1.aarch64.rpm.sha256) | 96 B | `other` |
+| [mcat-musl-0.6.9-1.x86_64.rpm](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-musl-0.6.9-1.x86_64.rpm) | 10.3 MiB | `runtime/rpm/x86_64` |
+| [mcat-musl-0.6.9-1.x86_64.rpm.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-musl-0.6.9-1.x86_64.rpm.sha256) | 95 B | `other` |
+| [mcat-musl_0.6.9_amd64.deb](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-musl_0.6.9_amd64.deb) | 9.7 MiB | `runtime/deb/amd64` |
+| [mcat-musl_0.6.9_amd64.deb.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-musl_0.6.9_amd64.deb.sha256) | 92 B | `other` |
+| [mcat-musl_0.6.9_arm64.deb](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-musl_0.6.9_arm64.deb) | 8.4 MiB | `runtime/deb/arm64` |
+| [mcat-musl_0.6.9_arm64.deb.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-musl_0.6.9_arm64.deb.sha256) | 92 B | `other` |
+| [mcat-v0.6.9-aarch64-apple-darwin.tar.xz](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-v0.6.9-aarch64-apple-darwin.tar.xz) | 8.5 MiB | `native/darwin/arm64` |
+| [mcat-v0.6.9-aarch64-apple-darwin.tar.xz.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-v0.6.9-aarch64-apple-darwin.tar.xz.sha256) | 106 B | `native/darwin/arm64` |
+| [mcat-v0.6.9-aarch64-unknown-linux-gnu.tar.xz](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-v0.6.9-aarch64-unknown-linux-gnu.tar.xz) | 8.9 MiB | `native/linux/arm64/glibc` |
+| [mcat-v0.6.9-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-v0.6.9-aarch64-unknown-linux-gnu.tar.xz.sha256) | 111 B | `native/linux/arm64/glibc` |
+| [mcat-v0.6.9-aarch64-unknown-linux-musl.tar.xz](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-v0.6.9-aarch64-unknown-linux-musl.tar.xz) | 8.4 MiB | `native/linux/arm64/musl` |
+| [mcat-v0.6.9-aarch64-unknown-linux-musl.tar.xz.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-v0.6.9-aarch64-unknown-linux-musl.tar.xz.sha256) | 112 B | `native/linux/arm64/musl` |
+| [mcat-v0.6.9-x86_64-apple-darwin.tar.xz](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-v0.6.9-x86_64-apple-darwin.tar.xz) | 9.6 MiB | `native/darwin/x64` |
+| [mcat-v0.6.9-x86_64-apple-darwin.tar.xz.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-v0.6.9-x86_64-apple-darwin.tar.xz.sha256) | 105 B | `native/darwin/x64` |
+| [mcat-v0.6.9-x86_64-pc-windows-msvc.zip](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-v0.6.9-x86_64-pc-windows-msvc.zip) | 12.5 MiB | `native/win/x64` |
+| [mcat-v0.6.9-x86_64-pc-windows-msvc.zip.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-v0.6.9-x86_64-pc-windows-msvc.zip.sha256) | 105 B | `native/win/x64` |
+| [mcat-v0.6.9-x86_64-unknown-linux-gnu.tar.xz](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-v0.6.9-x86_64-unknown-linux-gnu.tar.xz) | 10.0 MiB | `native/linux/x64/glibc` |
+| [mcat-v0.6.9-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-v0.6.9-x86_64-unknown-linux-gnu.tar.xz.sha256) | 110 B | `native/linux/x64/glibc` |
+| [mcat-v0.6.9-x86_64-unknown-linux-musl.tar.xz](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-v0.6.9-x86_64-unknown-linux-musl.tar.xz) | 9.6 MiB | `native/linux/x64/musl` |
+| [mcat-v0.6.9-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat-v0.6.9-x86_64-unknown-linux-musl.tar.xz.sha256) | 111 B | `native/linux/x64/musl` |
+| [mcat_0.6.9_amd64.deb](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat_0.6.9_amd64.deb) | 10.1 MiB | `runtime/deb/amd64` |
+| [mcat_0.6.9_amd64.deb.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat_0.6.9_amd64.deb.sha256) | 87 B | `other` |
+| [mcat_0.6.9_arm64.deb](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat_0.6.9_arm64.deb) | 8.9 MiB | `runtime/deb/arm64` |
+| [mcat_0.6.9_arm64.deb.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat_0.6.9_arm64.deb.sha256) | 87 B | `other` |
 
 ## Distribution status
 
-Reported by **8** distros on [repology.org](https://repology.org/project/mcat). **4** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+Reported by **8** distros on [repology.org](https://repology.org/project/mcat). **2** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.6.8` | ✅ latest |
-| Nix unstable | `0.6.8` | ✅ latest |
+| Homebrew | `0.6.9` | ✅ latest |
+| Nix unstable | `0.6.8` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -109,4 +109,4 @@ Install metadata for mcat lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:09:57Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:06:15Z._
