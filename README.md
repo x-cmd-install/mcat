@@ -37,7 +37,7 @@ Total: **12,986** lines of code across **51** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,480 · **Forks**: 68 · **Open issues**: 76 · **Contributors**: 14
+- **Stars**: 1,482 · **Forks**: 68 · **Open issues**: 76 · **Contributors**: 14
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **12,986** lines of code across **51** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 2 | 6 | 0 | 3 | 0 | 14 |
-| last60d | 2026-09-26 | 4 | 9 | 0 | 6 | 0 | 25 |
-| 90d | 2026-08-27 | 5 | 9 | 0 | 9 | 1 | 31 |
-| last180d | 2026-05-29 | 8 | 12 | 0 | 18 | 2 | 72 |
-| 360d | 2025-11-30 | 19 | 19 | 0 | 42 | 5 | 270 |
-| last720d | 2024-12-05 | 37 | 31 | 0 | 69 | 7 | 638 |
+| 30d | 2026-10-27 | 2 | 6 | 0 | 3 | 0 | 0 |
+| last60d | 2026-09-27 | 4 | 9 | 0 | 6 | 0 | 0 |
+| 90d | 2026-08-28 | 5 | 9 | 0 | 9 | 1 | 0 |
+| last180d | 2026-05-30 | 8 | 12 | 0 | 18 | 2 | 0 |
+| 360d | 2025-12-01 | 19 | 19 | 0 | 42 | 5 | 0 |
+| last720d | 2024-12-06 | 37 | 31 | 0 | 69 | 7 | 638 |
 
 ## Release assets
 
@@ -91,15 +91,6 @@ Total: **12,986** lines of code across **51** files in the top 5 languages.
 | [mcat_0.6.9_arm64.deb](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat_0.6.9_arm64.deb) | 8.9 MiB | `runtime/deb/arm64` |
 | [mcat_0.6.9_arm64.deb.sha256](https://github.com/Skardyy/mcat/releases/download/v0.6.9/mcat_0.6.9_arm64.deb.sha256) | 87 B | `other` |
 
-## Distribution status
-
-Reported by **8** distros on [repology.org](https://repology.org/project/mcat). **3** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.6.9` | ✅ latest |
-| Nix unstable | `0.6.8` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for mcat lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mcat` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -109,4 +100,4 @@ Install metadata for mcat lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:19:45Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:05:47Z._
